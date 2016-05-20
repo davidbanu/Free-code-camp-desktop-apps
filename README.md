@@ -1,2 +1,3 @@
 # Free-code-camp-desktop-apps
-I've made with Nw.js two apps for Windows and iOS for the Free Code Camp website. 
+
+Developed for desktops, this app was implemented using NodeWebkit. Seeing the need for a good app that was capable of starting Free Code Camp website without using the browser I've developed this application.
